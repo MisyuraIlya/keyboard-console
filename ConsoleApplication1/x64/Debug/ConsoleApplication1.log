@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\SpeTsaR\source\repos\ConsoleApplication1\ConsoleApplication1\Timer.h(107,56): warning C4244: 'return': conversion from '_Rep' to 'unsigned long', possible loss of data
+C:\Users\SpeTsaR\source\repos\ConsoleApplication1\ConsoleApplication1\Timer.h(107,56): warning C4244:         with
+C:\Users\SpeTsaR\source\repos\ConsoleApplication1\ConsoleApplication1\Timer.h(107,56): warning C4244:         [
+C:\Users\SpeTsaR\source\repos\ConsoleApplication1\ConsoleApplication1\Timer.h(107,56): warning C4244:             _Rep=__int64
+C:\Users\SpeTsaR\source\repos\ConsoleApplication1\ConsoleApplication1\Timer.h(107,56): warning C4244:         ]
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+  ConsoleApplication1.vcxproj -> C:\Users\SpeTsaR\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
