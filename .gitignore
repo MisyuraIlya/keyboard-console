@@ -1,6 +1,7 @@
 # Visual Studio Code
 .vscode/
 .vs/
+Debug
 
 # Visual Studio
 *.suo
