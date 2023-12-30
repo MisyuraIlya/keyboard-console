@@ -6,6 +6,7 @@
 #include "Base64.h"
 #include "IO.h"
 #include "Timer.h"
+#include "SendMail.h"
 
 int main()
 {
